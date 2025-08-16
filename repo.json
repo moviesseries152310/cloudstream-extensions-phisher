@@ -1,0 +1,8 @@
+{
+  "name": "Phisher-style Extensions (your fork)",
+  "description": "My version of CloudStream Phisher extensions",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/moviesseries152310/cloudstream-extensions-phisher/builds/plugins.json"
+  ]
+}
