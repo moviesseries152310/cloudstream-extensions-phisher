@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    {
+      "name": "ExampleProvider",
+      "url": "https://raw.githubusercontent.com/moviesseries152310/cloudstream-extensions-phisher/builds/ExampleProvider.cs3"
+    }
+  ]
+}
