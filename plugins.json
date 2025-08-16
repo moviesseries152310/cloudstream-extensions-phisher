@@ -1,8 +1,8 @@
 {
   "plugins": [
     {
-      "name": "ProviderName",
-      "url": "https://raw.githubusercontent.com/moviesseries152310/cloudstream-extensions-phisher/builds/ProviderName.cs3"
+      "name": "AllMovieLandProvider",
+      "url": "https://raw.githubusercontent.com/moviesseries152310/cloudstream-extensions-phisher/builds/AllMovieLandProvider.cs3"
     }
   ]
 }
